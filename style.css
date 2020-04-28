@@ -60,25 +60,20 @@ iframe {
   }
 
   .first {
-    position: absolute;
-    top: 50%;
-    left: 45%;
+   margin-top: 100px;
+   margin-left: 200px;
     overflow: hidden;
     overflow-y: hidden;
     overflow-x: hidden;
   }
 
   .second {
-    position: absolute;
-    top: 50%;
-    left: 25%;
-    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    margin-left: 400px;
   }
 
   .third {
-    position: absolute;
-    top: 50%;
-    left: 85%;
-    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    margin-left: 600px;
   }
   
